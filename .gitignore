@@ -1,0 +1,5 @@
+*.pyc
+secrets.py
+.env/*
+text_files/*
+twitch_emotes/*
