@@ -1,0 +1,9 @@
+Twisted==15.5.0
+Unidecode==0.04.19
+argparse==1.2.1
+markovify==0.2.5
+oauthlib==1.0.3
+psycopg2==2.6.1
+python-twitter==2.2
+wsgiref==0.1.2
+zope.interface==4.1.3
